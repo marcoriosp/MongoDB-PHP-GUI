@@ -49,7 +49,7 @@
 
                     <div class="card-header text-center text-nowrap">
                         <img src="./assets/images/mpg-icon.svg" width="32" height="32" />
-                        <h3 class="mpg-card-header-title d-inline align-middle">Dirsal - Admin GUI</h3>
+                        <h3 class="mpg-card-header-title d-inline align-middle">Dirsal - Admin Portal</h3>
                     </div>
                     
                     <div class="card-body">
@@ -57,7 +57,7 @@
                         <form method="POST" spellcheck="false">
 
                             <div class="input-group form-group">
-                                <input type="url" class="form-control" placeholder="mongodb://user:pass@host:port/db" title="URI" name="uri" pattern="^mongodb(\+srv)?://.+$" required>
+                                <input type="url" class="form-control" placeholder="Place uri here" title="URI" name="uri" pattern="^mongodb(\+srv)?://.+$" required>
                             </div>
 
                             <button class="btn mpg-flip-card-button text-info font-weight-bold float-left">I don't have an URI</button>
@@ -76,7 +76,7 @@
 
                     <div class="card-header text-center text-nowrap">
                         <img src="./assets/images/mpg-icon.svg" width="32" height="32" />
-                        <h3 class="mpg-card-header-title d-inline align-middle">Dirsal - Admin GUI</h3>
+                        <h3 class="mpg-card-header-title d-inline align-middle">Dirsal - Admin Portal</h3>
                     </div>
 
                     <div class="card-body">
