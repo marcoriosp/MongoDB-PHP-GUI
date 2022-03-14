@@ -49,7 +49,7 @@
 
                     <div class="card-header text-center text-nowrap">
                         <img src="./assets/images/mpg-icon.svg" width="32" height="32" />
-                        <h3 class="mpg-card-header-title d-inline align-middle">MongoDB PHP GUI</h3>
+                        <h3 class="mpg-card-header-title d-inline align-middle">Dirsal - Admin GUI</h3>
                     </div>
                     
                     <div class="card-body">
@@ -76,7 +76,7 @@
 
                     <div class="card-header text-center text-nowrap">
                         <img src="./assets/images/mpg-icon.svg" width="32" height="32" />
-                        <h3 class="mpg-card-header-title d-inline align-middle">MongoDB PHP GUI</h3>
+                        <h3 class="mpg-card-header-title d-inline align-middle">Dirsal - Admin GUI</h3>
                     </div>
 
                     <div class="card-body">
